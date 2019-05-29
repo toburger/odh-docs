@@ -121,7 +121,7 @@ Beta Stage Apps
 Production Stage
 ----------------
 
-* http://www.sudtirol.info. This website uses data from the
+* http://www.suedtirol.info. This website uses data from the
   :ref:`tourism-datasets` to display events in the region of South
   Tyrol and other useful information to help tourists organise their
   holiday in South Tyrol.
